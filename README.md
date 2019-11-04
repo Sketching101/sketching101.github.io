@@ -1,7 +1,7 @@
 # Aras Yazgan's Portfolio:
 
-## https://github.com/Sketching101/flight_simulator/
+## <a href="https://github.com/Sketching101/flight_simulator/">VR Flight Simulator Repository</a>
 
-## https://github.com/Sketching101/Tether/
+## <a href="https://github.com/Sketching101/Tether/">Hookshot Based Movement Repository</a>
 
-## https://github.com/Sketching101/Moon/
+## <a href="https://github.com/Sketching101/Moon/">"Moon", 2D Top Down Shooter Repository</a>
